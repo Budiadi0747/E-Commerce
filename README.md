@@ -1,3 +1,3 @@
 saat login
-admin id admin pass 123456 / 12345
-pembeli simba pass 123456 / 12345
+admin id admin@gmail.com pass 123456
+pembeli id pembeli@gmail.com pass 123456
